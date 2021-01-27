@@ -1,7 +1,7 @@
 # LootHunter
 A Turn-based Strategy game built with Blockchain technology  
 <br />Platforms: All platforms that support internet browser with browser extension
-<br />Languages: HTML (Phaser 3), JavaScript (React.js/Node.js), Solidity
+Languages: HTML (Phaser 3), JavaScript (React.js/Node.js), Solidity
 
 A turn-based strategy game that provides single and multi-player experience with the unique blockchain collectibles earned in the game. Players take turns to move their chess on the field and the final objective is to eliminate their enemy. Those blockchain collectibles are ERC-721 non-fungible tokens which are tradeable and unique even the attributes of the weapons or armors are the same.
 
