@@ -1,5 +1,5 @@
 # LootHunter
-A Turn-based Strategy game built with Blockchain technology
+A Turn-based Strategy game built with Blockchain technology 
 Platforms: All platforms that support internet browser with browser extension
 Languages: HTML (Phaser 3), JavaScript (React.js/Node.js), Solidity
 
