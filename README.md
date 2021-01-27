@@ -1,12 +1,11 @@
 # LootHunter
-
 A Turn-based Strategy game built with Blockchain technology
 Platforms: All platforms that support internet browser with browser extension
 Languages: HTML (Phaser 3), JavaScript (React.js/Node.js), Solidity
 
 A turn-based strategy game that provides single and multi-player experience with the unique blockchain collectibles earned in the game. Players take turns to move their chess on the field and the final objective is to eliminate their enemy. Those blockchain collectibles are ERC-721 non-fungible tokens which are tradeable and unique even the attributes of the weapons or armors are the same.
 
-Installation instruction
+#Installation instruction
 1.	Install node.js
 2.	Install Ganache (https://www.trufflesuite.com/ganache)
 3.	Install Metamask at default browser (Recommend: Google Chrome, Firefox)
