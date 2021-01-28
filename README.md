@@ -1,4 +1,4 @@
-# LootHunter  
+# LootHunter (Final Year Project) 
 <br />Platforms: All platforms that support internet browser with browser extension
 <br />Languages: HTML (Phaser 3), JavaScript (React.js/Node.js), Solidity
 
@@ -27,3 +27,5 @@ Installation instruction
 20. Test on browser
 
 If it does not work, please download at https://drive.google.com/drive/folders/1QnMYqajFRHNqTC2knlA-TV-FckTUgtpw?usp=sharing and try again
+
+Youtube Demo link: https://youtu.be/o2fFmPsIUWQ
