@@ -5,7 +5,7 @@
 A turn-based strategy game that provides single and multi-player experience with the unique blockchain collectibles earned in the game. Players take turns to move their chess on the field and the final objective is to eliminate their enemy. Those blockchain collectibles are ERC-721 non-fungible tokens which are tradeable and unique even the attributes of the weapons or armors are the same.
 
 Installation instruction
-1.	Install node.js
+1.	Install NodeJS v8.9.4 or later
 2.	Install Truffle (`npm install -g truffle`) and Ganache (https://www.trufflesuite.com/ganache)
 3.	Install Metamask at default browser (Recommend: Google Chrome, Firefox)
 4.	Start Ganache and create new workspace
