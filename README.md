@@ -16,7 +16,7 @@ Installation instruction
 9.	Input `truffle migrate --network ganache`
 10.	Input `truffle migrate --network ganache --reset --compile-all`
 11.	Copy and replace all the files from /build to /client/src/contracts
-12.	Open Metamask and create new network through setting -> new network, enter the RPC URL from Ganache to the New RPC URL in Metamask
+12.	Open Metamask and create new network through setting -> new network, enter the RPC URL from Ganache to the New RPC URL in Metamask, Chain ID should be `1337`
 13.	Import Ethereum address in Metamask with the private keys in Ganache
 14.	`cd /client` in cmd
 15. Input `npm install` to install all dependencies
