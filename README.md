@@ -6,7 +6,7 @@ A turn-based strategy game that provides single and multi-player experience with
 
 Installation instruction
 1.	Install node.js
-2.	Install Truffle (npm install -g truffle) and Ganache (https://www.trufflesuite.com/ganache)
+2.	Install Truffle (`npm install -g truffle`) and Ganache (https://www.trufflesuite.com/ganache)
 3.	Install Metamask at default browser (Recommend: Google Chrome, Firefox)
 4.	Start Ganache and create new workspace
 5.	Config the truffle-config.js to Ganache Network (Should be the same as I used default case)
